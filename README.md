@@ -1,70 +1,182 @@
-# Getting Started with Create React App
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  
+  <h1>JojoChatrooms</h1>
+  
+  <p>
+    Chatroom Application Using React.js and Firebase
+  </p>
+  </div>
+  
 
-## Available Scripts
 
-In the project directory, you can run:
+<br />
 
-### `npm start`
+<!-- Table of Contents -->
+# :notebook_with_decorative_cover: Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [About the Project](#star2-about-the-project)
+  * [Screenshots](#camera-screenshots)
+  * [Tech Stack](#space_invader-tech-stack)
+  * [Features](#dart-features)
+  
+- [Getting Started](#toolbox-getting-started)
+  
+  * [Run Locally](#running-run-locally)
+  
+- [Contributing](#wave-contributing)
+  
+- [Contact](#handshake-contact)
+- [Acknowledgements](#gem-acknowledgements)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  
 
-### `npm test`
+<!-- About the Project -->
+## :star2: About the Project
+A real time chatroom application made using React.js and firebase as backend service. The project include Google sign-in authentication to verify a user. 
+This simple application is dynamic and realtime chatroom with ability to let users upto 25 indulge in conversations.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- Screenshots -->
+### :camera: Screenshots
 
-### `npm run build`
+<div align="center"> 
+  <img src="https://i.ibb.co/2Y50ZZt/Opera-Snapshot-2022-08-27-155035-localhost.png" alt="Screenshot" border="0">
+</div>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- TechStack -->
+### :space_invader: Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<details>
+  <summary>Client</summary>
+  <ul>
+    
+    <li><a href="https://reactjs.org/">React.js</a></li>
+    
+  </ul>
+</details>
 
-### `npm run eject`
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://firebase.google.com/">Firebase</a></li>
+    
+    
+  </ul>
+</details>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://firebase.google.com/">Firebase</a></li>
+    
+  </ul>
+</details>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<!-- Features -->
+### :dart: Features
 
-## Learn More
+- Google Signin Authentication
+- Single channel chatroom
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- Color Reference -->
+### :art: Color Reference
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
+| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
+| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
+| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<!-- Getting Started -->
+## 	:toolbox: Getting Started
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```
+   
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<!-- Run Locally -->
+### :running: Run Locally
 
-### Deployment
+Clone the project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```bash
+  git clone https://github.com/sandeep-dss/chatroom.git
+```
 
-### `npm run build` fails to minify
+Go to the project directory
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm start
+```
+
+
+
+
+
+
+
+
+
+
+
+<!-- Contributing -->
+## :wave: Contributing
+
+<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
+</a>
+
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+
+
+
+
+
+
+
+
+
+<!-- Contact -->
+## :handshake: Contact
+
+Your Name - [@linkedin_handle](www.linkedin.com/in/sandeepdesaraju) - sandeep2262000@gmail.com
+
+Project Link: [https://github.com/sandeep-dss/chatroom](https://github.com/sandeep-dss/chatroom)
+
+
+<!-- Acknowledgments -->
+## :gem: Acknowledgements
+
+useful resources and libraries that have used in project.
+
+ - [Fireship.io](https://fireship.io/)
+ - [Firebase](https://firebase.google.com)
+ 
+
+
+
+
