@@ -124,34 +124,6 @@ Start the server
 
 
 
-
-
-
-
-
-
-
-<!-- Contributing -->
-## :wave: Contributing
-
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
-</a>
-
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-
-
-
-
-
-
-
-
-
 <!-- Contact -->
 ## :handshake: Contact
 
