@@ -1,7 +1,7 @@
 <div align="center">
 
   
-  <h1>JojoChatrooms</h1>
+  <h1>Chatroom</h1>
   
   <p>
     Chatroom Application Using React.js and Firebase
