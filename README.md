@@ -127,9 +127,9 @@ Start the server
 <!-- Contact -->
 ## :handshake: Contact
 
-Your Name - [@linkedin_handle](www.linkedin.com/in/sandeepdesaraju) - sandeep2262000@gmail.com
+Sandeep Desaraju - [@linkedin_handle](www.linkedin.com/in/sandeepdesaraju) - sandeep2262000@gmail.com
 
-Project Link: [https://github.com/sandeep-dss/chatroom](https://github.com/sandeep-dss/chatroom)
+Portfolio: [https://sandeep-desaraju.vercel.app](https://sandeep-desaraju.vercel.app)
 
 
 <!-- Acknowledgments -->
